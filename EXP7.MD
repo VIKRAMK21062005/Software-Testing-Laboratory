@@ -28,23 +28,21 @@ Software  must handle concurrent accesses to the same account correctly.
 ### Intended Audience:
 ```
 The intended audience of this SRS consists of: 
-Software designers 
-□
- □
- □
- □
- □
- Systems engineers 
-/Software developers 
-Software testers 
-Customers 
+ 
+ □  Systems engineers
+ □  Software developers 
+ □  Software testers
+ □  Customers 
+ □  Software designers
+  
+
 The actors of the system are: 
-User 
-1.
- 2.
- 3.
- ATM Machine 
-Bank
+
+ 1. User 
+ 2. ATM Machine 
+ 3. Bank
+ 
+
 ```
 
 
